@@ -1,4 +1,4 @@
-# kasperky_data_pipeline
+# jiwe google scraper
 Scraper to extract and visualize Kaspersky cybersecurity data
 
 ## How to run
