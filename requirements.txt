@@ -1,0 +1,7 @@
+sqlalchemy
+dateparser
+streamlit
+pygooglenews
+loguru
+requests_html
+pandas
